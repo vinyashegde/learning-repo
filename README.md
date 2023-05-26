@@ -1,2 +1,4 @@
 # learning-repo
-Make your first pr
+Make your first contribution here!
+
+Note: Make a pull request first
